@@ -9,10 +9,12 @@ Attention aux propriétaires Airbnb! Gagnez du temps et de l'argent avec le nouv
 
 Professional CRM for real estate agency. Airbnb sync. Free to use. Instant booking without any fees.
 
+## <a href="https://estate.im/">Estate.im</a> - assistant propriétaire pour airbnb!
+
 <hr />
 
-## Copie exacte d'Airbnb! Installation en 5 minutes!
-## <a href="https://demo.estate.im">Site de démonstration</a>
+### Copie exacte d'Airbnb! Installation en 5 minutes!
+### <a href="https://demo.estate.im">Site de démonstration</a>
 
 ### Fonctionnalités AIrbnb
 * Importer des appartements depuis Airbnb ( <a href="https://estate.im/">importation démo</a> )
@@ -32,10 +34,13 @@ Professional CRM for real estate agency. Airbnb sync. Free to use. Instant booki
 * Google Analytics, Yandex Metrika.
 * Support 24/7.
 
+<hr />
+
+## <a href="https://estate.im/">Estate.im</a> - assistant propriétaire pour airbnb!
 
 <hr />
 
-Version = 0.0.4 <br />
+Version = 0.0.5 <br />
 Nom de la bibliothèque = crm_for_real_estate <br />
 Titre = CRM for Real Estate <br />
 Mots-clés = airbnb clone script estate wordpress site theme rental software python django, professional agency instant fess <br />
